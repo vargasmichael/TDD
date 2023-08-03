@@ -1,5 +1,5 @@
 const removeSNames = (names) => {
-  return names.filter((element) => element.toLowerCase().charAt(0) === "s");
+  return names.filter((element) => element.toLowerCase().charAt(0) !== "s");
   //   let expectedOutput = names;
   //   names.forEach((element) => {
   //     if (element.toLowerCase().charAt(0) === "s") {
