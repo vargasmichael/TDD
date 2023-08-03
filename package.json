@@ -1,0 +1,23 @@
+{
+  "name": "TDD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vargasmichael/TDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vargasmichael/TDD/issues"
+  },
+  "homepage": "https://github.com/vargasmichael/TDD#readme",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
